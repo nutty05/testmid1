@@ -1,0 +1,15 @@
+C:\Users\STUDENT\Desktop\testmid1\bin\Debug\net6.0\testmid1.exe
+C:\Users\STUDENT\Desktop\testmid1\bin\Debug\net6.0\testmid1.deps.json
+C:\Users\STUDENT\Desktop\testmid1\bin\Debug\net6.0\testmid1.runtimeconfig.json
+C:\Users\STUDENT\Desktop\testmid1\bin\Debug\net6.0\testmid1.dll
+C:\Users\STUDENT\Desktop\testmid1\bin\Debug\net6.0\testmid1.pdb
+C:\Users\STUDENT\Desktop\testmid1\obj\Debug\net6.0\testmid1.csproj.AssemblyReference.cache
+C:\Users\STUDENT\Desktop\testmid1\obj\Debug\net6.0\testmid1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENT\Desktop\testmid1\obj\Debug\net6.0\testmid1.AssemblyInfoInputs.cache
+C:\Users\STUDENT\Desktop\testmid1\obj\Debug\net6.0\testmid1.AssemblyInfo.cs
+C:\Users\STUDENT\Desktop\testmid1\obj\Debug\net6.0\testmid1.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT\Desktop\testmid1\obj\Debug\net6.0\testmid1.dll
+C:\Users\STUDENT\Desktop\testmid1\obj\Debug\net6.0\refint\testmid1.dll
+C:\Users\STUDENT\Desktop\testmid1\obj\Debug\net6.0\testmid1.pdb
+C:\Users\STUDENT\Desktop\testmid1\obj\Debug\net6.0\testmid1.genruntimeconfig.cache
+C:\Users\STUDENT\Desktop\testmid1\obj\Debug\net6.0\ref\testmid1.dll
